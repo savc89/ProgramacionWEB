@@ -1,0 +1,23 @@
+{
+  "name": "gestiononline",
+  "version": "1.0.0",
+  "description": "Trabaja entrega de GestionProductosOnline",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specifiedfd && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5"
+  
+  }
+}
